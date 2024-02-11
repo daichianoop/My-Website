@@ -1,0 +1,194 @@
+.l1 {
+  width: 500px;
+}
+.l2 img {
+  width: 200px;
+  margin-right: 100px;
+  border: solid;
+  border-color: rgb(22, 22, 22);
+  border-radius: 50%;
+  border-width: 6px;
+}
+.l3 {
+  width: 350px;
+}
+.flex-1 {
+  padding: 10px;
+  background-color: #00000080;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.container img {
+  width: 23px;
+  padding-right: 7px;
+}
+.container {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  padding: 4px 5px;
+  display: flex;
+  font-size: 14px;
+  align-items: center;
+  transition: background-color 0.2s;
+}
+.container:hover {
+  background-color: rgba(0, 0, 0, 0.142);
+  border-radius: 4px;
+}
+.flex-2 {
+  padding-top: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+.f2r {
+  background-color: #00000080;
+  width: 618.5px;
+}
+.f2l {
+  background-color: #00000080;
+  width: 618.5px;
+}
+.educon,.skillcon{
+    margin: 0px;
+    padding: 10px;
+}
+.s1{
+    margin-top: 7px;
+    line-height: 25px;
+    padding: 0px 20px;
+    font-size: 17.5px;
+    font-weight: bold;
+}
+.skillsec{
+    display: flex;
+    justify-content: space-between;
+}
+.flex-3{
+   margin: 10px 0px;
+    display: flex;
+    justify-content: space-between;
+}
+.s1 div{
+    padding: 2px;
+    transition: background-color 0.4s;
+}
+.s1 div:hover{
+    background-color: rgba(0, 0, 0, 0.142);
+    border-radius: 4px;
+}
+.exp{
+  background-color: #00000090;
+  width: 700px;
+  padding: 10px;
+}
+.projects{
+  background-color: #00000090;
+  width: 497px;
+  padding: 10px;
+}
+.task{
+  line-height: 25px;
+}
+.t1{
+ font-size: 17px;
+}
+.wexp1{
+transition: background-color 0.3s;
+padding: 7px 10px;
+}
+.wexp1:hover{
+  border-radius: 4px;
+  background-color: rgba(0, 0, 0, 0.142) ;
+}
+.project1{
+  display: flex;
+  padding-right: 50px;
+  flex-direction: column;
+  margin: 15px 10px;
+}
+
+.projectbutt{
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  width: 480px;
+  margin-top: 3px;
+  padding: 5px 10px;
+  background-color: rgba(255, 255, 255, 0);
+  border: solid;
+  border-radius: 2px;
+  transition: background-color 0.3s;
+}
+.projectbutt:hover{
+  background-color: rgba(0, 0, 0, 0.406);
+  cursor: pointer;
+}
+.projectbutt:active{
+  background-color:#a9a29b;
+}
+.websites{
+  margin-top: 10px;
+}
+.butt1
+{
+  margin-top: 3px;
+  padding: 5px 10px;
+  background-color: rgba(255, 255, 255, 0);
+  border: solid;
+  border-radius: 2px;
+  transition: background-color 0.3s;
+}
+.butt1:hover{
+  background-color: rgba(0, 0, 0, 0.142);
+  cursor: pointer;
+}
+.butt1:active{
+  background-color: lightgreen;
+}
+.langflex{
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  transition: background-color 0.3s;
+}
+.languages{
+  margin-top: 10px;
+  background-color: #00000070;
+  padding :10px;
+}
+.lan{
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+.prof{
+  font-size: 16px;
+  font-style: italic;
+  margin-top: 5px;
+}
+.blank{
+  margin-top: 10px;
+  width: 516px;
+  height: 80px;
+  background-color: #000000c0;
+}
+.flex-4{
+  margin: 10px 0px;
+  display: flex;
+  background-color: #00000070;
+}
+.awards{
+  padding:10px;
+}
+.flex-5{
+  margin: 10px 0px;
+  padding: 10px;
+  padding-right: 30px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #00000080;
+}
+.langflex:hover{
+  background-color: rgba(0, 0, 0, 0.142);
+  border-radius: 4px;
+}
